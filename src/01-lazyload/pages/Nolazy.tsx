@@ -1,0 +1,11 @@
+
+
+const Nolazy = () => {
+  return (
+    <div>
+        <h1>No LazyLoad component</h1>
+    </div>
+  )
+}
+
+export default Nolazy
